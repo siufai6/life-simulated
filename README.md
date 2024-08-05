@@ -12,7 +12,7 @@ We run 40 rounds of "life events". In each turn, just like monopoly, a sim would
 
 We plot the results of the wealth distribution as a histogram. Very few sims get to the wealth level of 2000+. Wealth of most sims skews to the left, which is similar to real life.
 ![wealth histogram](https://github.com/siufai6/life-simulated/blob/main/wealth_hist.png)
-We plot these two against wealth levels. Clearly, higher IQ does not always guarantee more wealth/success. Even some of the  slighter dumber sims are doing OK.
+We plot these two against wealth levels. Clearly, higher IQ does not always guarantee more wealth/success. Even some of the  slightly lower IQ sims are doing OK.
 ![IQ vs Wealth](https://github.com/siufai6/life-simulated/blob/main/iq_wealth.png)
 Next we try to see what role does luck holds? It is a bit more clear and the trend could be easily spotted. The luckier the sim, the more wealth the sim got, in general
 ![luck vs wealth](https://github.com/siufai6/life-simulated/blob/main/luck_wealth.png)
@@ -27,3 +27,4 @@ In addition, another factor is the sequence of events. If a sim has a series o
   - meet new people, goto new places.
   - Be curious about life, explore, learn.
   - Be optimistic, avoid people who would drag you down.
+* preliminary results shows a basic income for all the sims could help some of the unfortunate ones, more work needed on this later.
